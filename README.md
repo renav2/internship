@@ -1,4 +1,5 @@
-#Social-Media-Integration
+TSF_GRIP_SOCIAL_MEDIA_INTEGRATION
+We can login with either Facebook or Google account and can get the user's basic information. #Social-Media-Integration
 
 This app is made to complete Task #5 of Graduate Rotational Internship Program (GRIP) of The Sparks Foundation i.e.,Social Media Integration in an android app.
 
